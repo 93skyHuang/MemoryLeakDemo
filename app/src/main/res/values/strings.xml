@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoryLeakDemo</string>
+    <string name="jumptestpage">jumpTestPage</string>
+    <string name="jumpMainPage">jumpMainPage</string>
+</resources>
